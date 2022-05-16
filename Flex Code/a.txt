@@ -1,0 +1,5 @@
+SSmain(){
+
+Type'Hello World';
+	getback 0;
+}  

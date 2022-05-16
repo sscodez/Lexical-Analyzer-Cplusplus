@@ -1,0 +1,38 @@
+Keywords:SSmain
+Separators:(
+Separators:)
+Separators:{
+Keywords:floop
+Separators:(
+Keywords:integer
+Identifier:i
+Relational Operators:=
+Digit :0
+Identifier:i
+Relational Operators:<=
+Digit :10
+SemiColon:;
+Identifier:i
+Relational Operators:>=
+Digit :10
+Separators:)
+Keywords:integer
+Relational Operators:==
+Digit :10
+SemiColon:;
+Keywords:getback
+Digit :0
+SemiColon:;
+Separators:}
+
+ ---------------------------------
+ ---------------------------------
+ No of Tokens #: 26
+ ---------------------------------
+ No of Keywords #: 5
+ No of Arithmetic Operators #: 0
+ No of Relational Operators #: 4
+ No of SemiColon #: 3
+ No of Separators #: 6
+ No of Delimiters #: 0
+ No of ID Numbers #: 5
